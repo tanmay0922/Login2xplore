@@ -39,13 +39,15 @@ Illustrations
 
 ![image](https://user-images.githubusercontent.com/84792843/221294498-343226c6-f88d-4f85-92e7-f9342495cfba.png)
 
-![image](https://user-images.githubusercontent.com/84792843/221294735-851c5c8e-abef-4b72-9730-bf00620819ec.png)
+![image]:<img width="478" alt="image" src="https://github.com/tanmay0922/Login2xplore/assets/89064782/8e875889-ecc0-4935-9a7e-357ea78a02e6">
+
 
 ![image](https://user-images.githubusercontent.com/84792843/221294803-83985a1a-a70d-4483-b5ec-b98622f6aa59.png)
 
 ![image](https://user-images.githubusercontent.com/84792843/221294891-97850c42-fa9f-4b36-bda3-bbc2dbb95223.png)
 
-![image](https://user-images.githubusercontent.com/84792843/221294929-b6813f59-5632-4d9f-8037-b619cc80dcc8.png)
+![image]-<img width="546" alt="image" src="https://github.com/tanmay0922/Login2xplore/assets/89064782/f5ca8ff5-855c-4b95-a319-c530c30fcde4">
+
 
 
 Scope of functionalities : 
